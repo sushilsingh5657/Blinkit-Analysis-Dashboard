@@ -56,41 +56,41 @@ The dashboard is interactive with filters for Outlet Location Type, Outlet Size,
 •	Item Visibility: Measure of how often items appear or are selected relative to others.
 
 # Steps in the Project
-1.	Data Collection
+# 1.	Data Collection
 
 o	Gathered raw sales, outlet, and product data from available sources (Excel files).
 
-2.	Data Cleaning and Preparation
+# 2.	Data Cleaning and Preparation
 
 o	Handled missing values, removed duplicates, and corrected inconsistencies.
 
 o	Standardized fields like Outlet Type, Item Type, Fat Content, etc.
 
-3.	Data Modeling
+# 3.	Data Modeling
 
 o	Imported cleaned data into Power BI.
 
 o	Built relationships between tables to create a proper data model.
 
-4.	Data Analysis
+# 4.	Data Analysis
 
 o	Created DAX measures for Total Sales, Average Sales, Number of Items, Average Rating, and Item Visibility.
 
 o	Analyzed patterns across Outlet Size, Location Tier, Item Type, Fat Content, and more.
 
-5.	Visualization
+# 5.	Visualization
 
 o	Designed interactive charts like bar graphs, donut charts, line graphs, and KPI cards.
 
 o	Used slicers for dynamic filtering based on Outlet Location Type, Outlet Size, and Item Type.
 
-6.	Dashboard Building
+# 6.	Dashboard Building
 
 o	Organized visual elements into a clean and user-friendly dashboard layout.
 
 o	Highlighted key KPIs at the top for quick insights.
 
-7.	Insights and Interpretation
+# 7.	Insights and Interpretation
 
 o	Derived business insights on top-performing products, outlet types, and customer preferences.
 
@@ -100,15 +100,15 @@ o	Identified areas of improvement based on outlet size and location performance.
 <img width="605" alt="blinkit_sales_analysis_dashboard" src="https://github.com/user-attachments/assets/1a77dcee-6aa5-4848-824f-32232284353e" />
 
 # How to Use the Dashboard
-1.	Download the Project
+# 1.	Download the Project
 
 o	Download or clone the GitHub repository to your local machine.
 
-2.	Open the Dashboard File
+# 2.	Open the Dashboard File
 
-o	Open the .pbix file () using Power BI Desktop.
+o	Open the .pbix file (https://github.com/sushilsingh5657/Blinkit-Analysis-Dashboard/raw/refs/heads/main/Blinkit%20PowerBI%20Project.pbix) using Power BI Desktop.
 
-3.	Explore Using Slicers
+# 3.	Explore Using Slicers
 
 o	Use the available slicers to filter the data:
 
@@ -118,17 +118,17 @@ o	Use the available slicers to filter the data:
 
 	Item Type: Analyze performance based on different product categories (e.g., Fruits, Snacks).
 
-4.	Understand the KPIs
+# 4.	Understand the KPIs
 
 o	View the top cards showing Total Sales, Average Sales, Average Rating, and Total Items Sold for quick insights.
 
-5.	Analyze Trends and Comparisons
+# 5.	Analyze Trends and Comparisons
 
 o	Check year-wise trends of outlet establishments.
 
 o	Compare sales performance based on Outlet Type, Fat Content, and Item Type through charts.
 
-6.	Interactive Analysis
+# 6.	Interactive Analysis
 
 o	Click on charts or data points to drill down and highlight related information across the dashboard.
 
